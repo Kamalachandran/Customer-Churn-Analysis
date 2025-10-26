@@ -22,7 +22,7 @@ It automates the data flow, builds a predictive model to detect potential churne
 ├── cleaning_and_load_to_sql.ipynb      # Cleans raw data and loads to MySQL
 ├── churn_prediction_model.ipynb        # Trains Random Forest model and predicts churn
 ├── Churn Analaysis.pbix              # Power BI dashboard (business insights)
-├── customer_churn.csv               # Input dataset
+├── customer dataset.csv               # Input dataset
 └── README.md                        # Project documentation
 ```
 
