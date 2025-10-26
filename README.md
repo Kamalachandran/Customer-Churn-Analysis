@@ -66,8 +66,8 @@ It automates the data flow, builds a predictive model to detect potential churne
 
 ## 📈 3. Power BI Dashboard
 
-**File:** `Churn Analaysis.pbix`  
-**File:** `Churn Analaysis.pdf`
+**File:** `Churn Analaysis.pbix`
+
 The Power BI dashboard provides interactive analytics, including:
 - 📉 Churn rates by demographics and subscription type  
 - 💰 Revenue and profit loss from churned customers  
