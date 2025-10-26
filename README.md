@@ -116,12 +116,12 @@ The Power BI dashboard provides interactive analytics, including:
 
 4. Run the data cleaning script  
    ```bash
-   python cleaning_and_load_to_sql.py
+   python cleaning_and_load_to_sql.ipynb
    ```
 
 5. Run the ML model script  
    ```bash
-   python churn_prediction_model.py
+   python churn_prediction_model.ipynb
    ```
 
 6. Open `Churn Analaysis.pdf` for visualization.
