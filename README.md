@@ -108,7 +108,7 @@ The Power BI dashboard provides interactive analytics, including:
 
 2. Install dependencies  
    ```bash
-   pip install -r pandas  numpy sklearn matplotlib seaborn graphviz pymysql missingno
+   pip install pandas  numpy sklearn matplotlib seaborn graphviz pymysql missingno
    ```
 
 3. Configure your MySQL credentials inside the Python files.  
